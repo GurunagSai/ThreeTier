@@ -1,0 +1,65 @@
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\source\repos\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete

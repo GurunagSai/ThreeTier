@@ -1,0 +1,35 @@
+C:\Users\gurunag.u\source\repos\EmployeePortal\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\source\repos\EmployeePortal\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\source\repos\EmployeePortal\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\source\repos\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\Users\gurunag.u\source\repos\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\source\repos\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\gurunag.u\source\repos\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\EmployeePortal\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\EmployeePortal\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\EmployeePortal\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\DomainLayer\obj\Debug\DomainLayer.pdb

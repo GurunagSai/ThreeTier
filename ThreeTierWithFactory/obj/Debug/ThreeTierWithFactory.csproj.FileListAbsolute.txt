@@ -1,0 +1,80 @@
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.exe.config
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.exe
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.pdb
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\bin\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\bin\Debug\DataLayer.dll
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\bin\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\bin\Debug\DataLayer.pdb
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\bin\Debug\DataLayer.dll.config
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csprojAssemblyReference.cache
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csproj.CopyComplete
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.exe
+C:\Users\gurunag.u\source\repos\EmployeePortal\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.pdb
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.exe.config
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.exe
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.pdb
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\bin\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\bin\Debug\DataLayer.dll
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\bin\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\bin\Debug\DataLayer.pdb
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\bin\Debug\DataLayer.dll.config
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csproj.CopyComplete
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.exe
+C:\Users\gurunag.u\Desktop\EmployeePortal\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.pdb
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.exe.config
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.exe
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.pdb
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DataLayer.dll
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DataLayer.pdb
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DataLayer.dll.config
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csproj.CopyComplete
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.exe
+C:\Users\gurunag.u\Desktop\gurunagu\ThreeTierFactoryPattern\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.exe
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.exe.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.exe
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DataLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DataLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\bin\Debug\DataLayer.dll.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csproj.CopyComplete
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csprojAssemblyReference.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csproj.CoreCompileInputs.cache
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.exe
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.exe.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.exe
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\bin\Debug\ThreeTierWithFactory.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\bin\Debug\BusinessLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\bin\Debug\DomainLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\bin\Debug\DataLayer.dll
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\bin\Debug\BusinessLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\bin\Debug\DomainLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\bin\Debug\DomainLayer.dll.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\bin\Debug\DataLayer.pdb
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\bin\Debug\DataLayer.dll.config
+C:\Users\gurunag.u\Desktop\ThreeTierFactoryPattern - Copy\ThreeTierWithFactory\obj\Debug\ThreeTierWithFactory.csproj.CopyComplete
